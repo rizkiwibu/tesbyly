@@ -24,7 +24,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "BOT🤖 BOT🤖 BILLZZYY  " //namabot kalian
+global.botname = "billzyyOFC BOT  " //namabot kalian
 global.ownername= "BILLZZYY " //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/" //bebas asal jan hapus
@@ -32,9 +32,9 @@ global.github = "https://github.com/rizkiwibu/Alphabot" //bebas
 global.email = "j" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285878836361'] //premium user
-global.owner = ["62895380267311","6285878836361"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285878836361" // nomor wa kalian
+global.premium = ['6283807661974'] //premium user
+global.owner = ["6283807661974","6283807661974"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6283807661974" // nomor wa kalian
 global.ownernomerr = "+62895380267311" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
